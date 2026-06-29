@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Verdeinkfernal/Verdeinkfernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, I'm Fernando 👋
+Electronics & Communications Engineer | Executive MBA | M.Sc. in Data Management
+12+ years leading IT departments in public-sector organizations (Director/Head of IT)
+🔧 What I work on:
+- Business Intelligence & dashboards (Power BI, Power Query, DAX)
+- IT infrastructure & governance (network admin, ITIL, risk assessment)
+- Applied conversational AI / chatbots (Botpress)
+- Web development (HTML/CSS/JS)
+📌 A few projects here:
+- `botpress-ao-seguros` — domain-trained insurance chatbot
+- `dicoil-web` — corporate website for a construction company
+📫 Open to freelance/contract work in BI, data automation, and IT consulting.
