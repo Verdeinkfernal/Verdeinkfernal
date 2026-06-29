@@ -1,6 +1,6 @@
 ### Hi, I'm Fernando 👋
 
-Electronics & Communications Engineer | Executive MBA | M.Sc. in Data Management
+Electronics & Communications Engineer | Executive MBA | M.Sc. in Data Management<br>
 12+ years leading IT departments in public-sector organizations (Director/Head of IT)
 
 ## 🔧 What I work on
